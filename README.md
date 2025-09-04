@@ -19,4 +19,4 @@ Welcome! This is your starting point for creating your GitHub Pages portfolio.
 - Your reflections are written in Markdown. A Markdown cheatsheet is posted on D2L to help with formatting.
 - Your site may take a few minutes to update after each commit. *A commit means saving your changes to GitHub*
 
-[Main](../index.md)
+[Main](./index.md)
