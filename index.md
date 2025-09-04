@@ -1,4 +1,4 @@
-# Hi, I'm <Yusuf>
+# Hi, I'm Yusuf
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
@@ -7,7 +7,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-I like motorsports and photography.
+I like **motorsports** and **photography**.
 
 ---
 *Update this page by editing `index.md` in your repository.*
